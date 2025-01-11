@@ -33,6 +33,5 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/zuhaib467"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/zuhaib467" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dzuhaib&show_icons=true&locale=en&layout=compact" alt="dzuhaib" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dzuhaib&show_icons=true&locale=en" alt="dzuhaib" /></p>
+<h3>More about this repo:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dzuhaib&show_icons=true&locale=en&layout=compact" alt="dzuhaib" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dzuhaib&show_icons=true&locale=en" alt="dzuhaib" /></p>
