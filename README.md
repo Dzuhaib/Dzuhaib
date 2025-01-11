@@ -13,11 +13,11 @@
 
 - 📝 I regularly write articles on [dollanaire.com](dollanaire.com)
 
-- 💬 Ask me about **React Javascript WordPress PHP**
+- 💬 Ask me about **React, Javascript, WordPress, PHP and Python**
 
 - 📫 How to reach me **myselfzuhaib@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/zuhaibah](https://www.linkedin.com/zuhaibah)
+- 📄 Know about my experiences [https://www.linkedin.com/in/zuhaibah/](https://www.linkedin.com/in/zuhaibah/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
