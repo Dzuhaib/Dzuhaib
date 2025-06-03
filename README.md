@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [dollanaire.com](dollanaire.com)
 
-- 💬 Ask me about **React, Javascript, WordPress, PHP and Python**
+- 💬 Ask me about **React, JavaScript, WordPress, PHP, and Python**
 
 - 📫 How to reach me **myselfzuhaib@gmail.com**
 
