@@ -5,15 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dzuhaib" alt="dzuhaib" /></a> </p>
 
-- 🔭 I’m currently working on [Athos Der Grieche](https://athos-der-grieche.de/)
+- 🔭 I’m currently working on [AI Vized](https://aivized.com/)
 
 - 🌱 I’m currently learning **Three.js Next.js React.js Python**
 
 - 👨‍💻 All of my projects are available at [thezuhaib.vercel.app](thezuhaib.vercel.app)
 
-- 📝 I regularly write articles on [dollanaire.com](dollanaire.com)
-
-- 💬 Ask me about **React, JavaScript, WordPress, PHP, and Python**
+- 💬 Ask me about **React, Next.js, Vite.js, JavaScript, TypeScript WordPress, PHP, and Python**
 
 - 📫 How to reach me **myselfzuhaib@gmail.com**
 
