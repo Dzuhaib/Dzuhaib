@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Three.js Next.js React.js Python**
 
-- 👨‍💻 All of my projects are available at [thezuhaib.vercel.app](thezuhaib.vercel.app)
+- 👨‍💻 All of my projects are available at [zuhaib.aivized.com](zuhaib.aivized.com)
 
 - 💬 Ask me about **React, Next.js, Vite.js, JavaScript, TypeScript WordPress, PHP, and Python**
 
