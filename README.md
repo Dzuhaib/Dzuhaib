@@ -1,35 +1,84 @@
-<h1 align="center">Hi 👋, I'm Zuhaib Ahmed</h1>
-<h3 align="center">A passionate full stack developer & WordPress Developer from Pakistan</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dzuhaib&label=Profile%20views&color=0e75b6&style=flat" alt="dzuhaib" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0B0F19,50:5A2616,100:bc542f&height=240&section=header&text=Zuhaib%20Ahmed&fontSize=58&fontColor=ffffff&fontAlignY=42&desc=A%20passionate%20full%20stack%20developer%20and%20WordPress%20developer%20from%20Pakistan&descSize=17&descAlignY=64" width="100%" alt="Zuhaib Ahmed" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dzuhaib" alt="dzuhaib" /></a> </p>
+<img src="https://komarev.com/ghpvc/?username=dzuhaib&label=Profile%20views&color=bc542f&style=for-the-badge" alt="Profile views" />
 
-- 🔭 I’m currently working on [AI Vized](https://aivized.com/)
+<br/><br/>
 
-- 🌱 I’m currently learning **Three.js Next.js React.js Python**
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dzuhaib&theme=gruvbox&no-frame=true&row=1&margin-w=12" alt="GitHub trophies" /></a>
 
-- 👨‍💻 All of my projects are available at [zuhaib.aivized.com](https://zuhaib.aivized.com/)
+</div>
 
-- 💬 Ask me about **React, Next.js, Vite.js, JavaScript, TypeScript WordPress, PHP, and Python**
+<br/>
 
-- 📫 How to reach me **myselfzuhaib@gmail.com**
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:bc542f,100:0B0F19&height=2&section=header" width="60%" alt="" />
+</div>
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/zuhaibah/](https://www.linkedin.com/in/zuhaibah/)
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/zuhaibah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/zuhaibah" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/dizuhaib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/dizuhaib" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/genai.guy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/genai.guy" height="30" width="40" /></a>
-<a href="https://medium.com/@zuhaibahmed3213951" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@zuhaibahmed3213951" height="30" width="40" /></a>
+<table align="center" width="100%">
+  <tr>
+    <td width="36" align="center">🔭</td>
+    <td>I'm currently working on <a href="https://aivized.com/"><b>AI Vized</b></a></td>
+  </tr>
+  <tr>
+    <td align="center">🌱</td>
+    <td>I'm currently learning <b>Three.js, Next.js, React.js and Python</b></td>
+  </tr>
+  <tr>
+    <td align="center">👨‍💻</td>
+    <td>All of my projects are available at <a href="https://zuhaib.aivized.com/"><b>zuhaib.aivized.com</b></a></td>
+  </tr>
+  <tr>
+    <td align="center">💬</td>
+    <td>Ask me about <b>React, Next.js, Vite.js, JavaScript, TypeScript, WordPress, PHP and Python</b></td>
+  </tr>
+  <tr>
+    <td align="center">📫</td>
+    <td>How to reach me: <a href="mailto:myselfzuhaib@gmail.com"><b>myselfzuhaib@gmail.com</b></a></td>
+  </tr>
+  <tr>
+    <td align="center">📄</td>
+    <td>Know about my experiences: <a href="https://www.linkedin.com/in/zuhaibah/"><b>linkedin.com/in/zuhaibah</b></a></td>
+  </tr>
+</table>
+
+<br/>
+
+<h3 align="center">🌐 Connect with me</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/zuhaibah/"><img src="https://img.shields.io/badge/LinkedIn-bc542f?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.facebook.com/dizuhaib"><img src="https://img.shields.io/badge/Facebook-bc542f?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://www.instagram.com/genai.guy"><img src="https://img.shields.io/badge/Instagram-bc542f?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://medium.com/@zuhaibahmed3213951"><img src="https://img.shields.io/badge/Medium-bc542f?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<br/>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://buymeacoffee.com/zuhaib467"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/zuhaib467" /></a></p><br><br>
+<h3 align="center">⚡ Languages and Tools</h3>
 
-<h3>More about this repo:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dzuhaib&show_icons=true&locale=en&layout=compact" alt="dzuhaib" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dzuhaib&show_icons=true&locale=en" alt="dzuhaib" /></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,php,python,java,sass,tailwind,mongodb,mysql,firebase,gcp,git,figma,ai,ps&perline=10" alt="Languages and tools" />
+</p>
+
+<br/>
+
+<h3 align="center">☕ Support</h3>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/zuhaib467"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" /></a>
+</p>
+
+<br/>
+
+<h3 align="center">📊 More about this repo</h3>
+
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dzuhaib&theme=gruvbox" alt="GitHub profile details" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dzuhaib&theme=gruvbox" alt="Top languages" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:5A2616,100:bc542f&height=120&section=footer" width="100%" alt="" />
