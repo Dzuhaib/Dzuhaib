@@ -6,11 +6,9 @@
 
 <br/><br/>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dzuhaib&theme=gruvbox&no-frame=true&row=1&margin-w=12" alt="GitHub trophies" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dzuhaib&theme=gruvbox&no-frame=true&row=1&column=7&margin-w=12" alt="GitHub trophies" /></a>
 
 </div>
-
-<br/>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:bc542f,100:0B0F19&height=2&section=header" width="60%" alt="" />
@@ -77,8 +75,24 @@
 <h3 align="center">📊 More about this repo</h3>
 
 <p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dzuhaib&theme=gruvbox" alt="GitHub profile details" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=dzuhaib&show_icons=true&show=prs_merged,prs_merged_percentage,reviews&hide_border=true&bg_color=0B0F19&title_color=bc542f&icon_color=bc542f&text_color=D6D3D1&ring_color=bc542f&cache_seconds=86400" alt="GitHub stats" />
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dzuhaib&theme=gruvbox" alt="Top languages" />
 </p>
+
+<!--PR_STATS_START-->
+<h3 align="center">🔀 Pull Requests</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Approved-1-bc542f?style=for-the-badge&labelColor=0B0F19" alt="Approved 1" />
+  <img src="https://img.shields.io/badge/Merged-1-bc542f?style=for-the-badge&labelColor=0B0F19" alt="Merged 1" />
+  <img src="https://img.shields.io/badge/Open-14-bc542f?style=for-the-badge&labelColor=0B0F19" alt="Open 14" />
+</p>
+<p align="center"><sub>Pull requests sent to</sub></p>
+<p align="center">
+  <a href="https://github.com/google" title="google"><img src="https://github.com/google.png?size=96" width="48" height="48" alt="google" /></a>
+  <a href="https://github.com/QoderAI" title="QoderAI"><img src="https://github.com/QoderAI.png?size=96" width="48" height="48" alt="QoderAI" /></a>
+</p>
+<!--PR_STATS_END-->
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:5A2616,100:bc542f&height=120&section=footer" width="100%" alt="" />
