@@ -1,12 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0B0F19,50:5A2616,100:bc542f&height=240&section=header&text=Zuhaib%20Ahmed&fontSize=58&fontColor=ffffff&fontAlignY=42&desc=A%20passionate%20full%20stack%20developer%20and%20WordPress%20developer%20from%20Pakistan&descSize=17&descAlignY=64" width="100%" alt="Zuhaib Ahmed" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:5A2616,100:bc542f&height=140&section=header" width="100%" alt="" />
+
+<h1 align="center">Zuhaib Ahmed</h1>
+<h3 align="center">A passionate full stack developer and WordPress developer from Pakistan</h3>
 
 <img src="https://komarev.com/ghpvc/?username=dzuhaib&label=Profile%20views&color=bc542f&style=for-the-badge" alt="Profile views" />
 
 <br/><br/>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dzuhaib&theme=gruvbox&no-frame=true&row=1&column=7&margin-w=12" alt="GitHub trophies" /></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Fiverr-Level_2_Seller-bc542f?style=for-the-badge&labelColor=0B0F19&logo=fiverr&logoColor=white" alt="Fiverr Level 2 Seller" />
+  <img src="https://img.shields.io/badge/Experience-5_Years-bc542f?style=for-the-badge&labelColor=0B0F19" alt="Experience 5 Years" />
+  <img src="https://img.shields.io/badge/Clients-UK_and_US-bc542f?style=for-the-badge&labelColor=0B0F19" alt="Clients UK and US" />
+  <img src="https://img.shields.io/badge/Founder-AIVIZED-bc542f?style=for-the-badge&labelColor=0B0F19" alt="Founder AIVIZED" />
+</p>
 
 </div>
 
@@ -75,22 +83,18 @@
 <h3 align="center">📊 More about this repo</h3>
 
 <!--GH_STATS_START-->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Dzuhaib/Dzuhaib/main/assets/stats_chart.svg?v=e6d67ce5" width="49%" alt="GitHub stats" />
-  <img src="https://raw.githubusercontent.com/Dzuhaib/Dzuhaib/main/assets/languages_chart.svg?v=79ce7c0b" width="49%" alt="Top languages by repo" />
-</p>
 <!--GH_STATS_END-->
 
 <!--STREAK_START-->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dzuhaib/Dzuhaib/main/assets/streak_chart.svg?v=67119280" width="480" alt="Streak: 7 days current, 10 days longest" />
+  <img src="https://raw.githubusercontent.com/dzuhaib/dzuhaib/main/assets/streak_chart.svg?v=67119280" width="480" alt="Streak: 7 days current, 10 days longest" />
 </p>
 <!--STREAK_END-->
 
 <!--PR_STATS_START-->
 <h3 align="center">🔀 Pull Requests</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dzuhaib/Dzuhaib/main/assets/pr_chart.svg?v=4d571335" width="480" alt="Pull requests: 2 approved, 2 merged, 7 open" />
+  <img src="https://raw.githubusercontent.com/dzuhaib/dzuhaib/main/assets/pr_chart.svg?v=4d571335" width="480" alt="Pull requests: 2 approved, 2 merged, 7 open" />
 </p>
 <p align="center"><sub>Pull requests sent to</sub></p>
 <p align="center">
