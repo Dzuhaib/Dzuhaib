@@ -74,23 +74,19 @@
 
 <h3 align="center">📊 More about this repo</h3>
 
-<!--STREAK_START-->
-<p align="center">
-  <img src="https://img.shields.io/badge/Current_Streak-7_days-bc542f?style=for-the-badge&labelColor=0B0F19" alt="Current Streak 7 days" />
-  <img src="https://img.shields.io/badge/Longest_Streak-10_days-bc542f?style=for-the-badge&labelColor=0B0F19" alt="Longest Streak 10 days" />
-  <img src="https://img.shields.io/badge/Contributions_This_Year-1305-bc542f?style=for-the-badge&labelColor=0B0F19" alt="Contributions This Year 1305" />
-</p>
-<!--STREAK_END-->
-
 <!--GH_STATS_START-->
 <!--GH_STATS_END-->
+
+<!--STREAK_START-->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dzuhaib/dzuhaib/main/assets/streak_chart.svg?v=67119280" width="480" alt="Streak: 7 days current, 10 days longest" />
+</p>
+<!--STREAK_END-->
 
 <!--PR_STATS_START-->
 <h3 align="center">🔀 Pull Requests</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Approved-2-bc542f?style=for-the-badge&labelColor=0B0F19" alt="Approved 2" />
-  <img src="https://img.shields.io/badge/Merged-2-bc542f?style=for-the-badge&labelColor=0B0F19" alt="Merged 2" />
-  <img src="https://img.shields.io/badge/Open-7-bc542f?style=for-the-badge&labelColor=0B0F19" alt="Open 7" />
+  <img src="https://raw.githubusercontent.com/dzuhaib/dzuhaib/main/assets/pr_chart.svg?v=4d571335" width="480" alt="Pull requests: 2 approved, 2 merged, 7 open" />
 </p>
 <p align="center"><sub>Pull requests sent to</sub></p>
 <p align="center">
