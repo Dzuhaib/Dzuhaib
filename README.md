@@ -74,10 +74,8 @@
 
 <h3 align="center">📊 More about this repo</h3>
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=dzuhaib&show_icons=true&show=prs_merged,prs_merged_percentage,reviews&hide_border=true&bg_color=0B0F19&title_color=bc542f&icon_color=bc542f&text_color=D6D3D1&ring_color=bc542f&cache_seconds=86400" alt="GitHub stats" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dzuhaib&theme=gruvbox" alt="Top languages" />
-</p>
+<!--GH_STATS_START-->
+<!--GH_STATS_END-->
 
 <!--PR_STATS_START-->
 <h3 align="center">🔀 Pull Requests</h3>
