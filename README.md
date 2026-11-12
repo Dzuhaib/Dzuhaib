@@ -84,7 +84,7 @@
 
 <!--GH_STATS_START-->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dzuhaib/Dzuhaib/main/assets/stats_chart.svg?v=c723d6dc" width="49%" alt="GitHub stats" />
+  <img src="https://raw.githubusercontent.com/Dzuhaib/Dzuhaib/main/assets/stats_chart.svg?v=98fd0c35" width="49%" alt="GitHub stats" />
   <img src="https://raw.githubusercontent.com/Dzuhaib/Dzuhaib/main/assets/languages_chart.svg?v=f4aaf1be" width="49%" alt="Top languages by repo" />
 </p>
 <!--GH_STATS_END-->
