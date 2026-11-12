@@ -84,21 +84,21 @@
 
 <!--GH_STATS_START-->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dzuhaib/Dzuhaib/main/assets/stats_chart.svg?v=dc9a339d" width="49%" alt="GitHub stats" />
-  <img src="https://raw.githubusercontent.com/Dzuhaib/Dzuhaib/main/assets/languages_chart.svg?v=79ce7c0b" width="49%" alt="Top languages by repo" />
+  <img src="https://raw.githubusercontent.com/Dzuhaib/Dzuhaib/main/assets/stats_chart.svg?v=c723d6dc" width="49%" alt="GitHub stats" />
+  <img src="https://raw.githubusercontent.com/Dzuhaib/Dzuhaib/main/assets/languages_chart.svg?v=f4aaf1be" width="49%" alt="Top languages by repo" />
 </p>
 <!--GH_STATS_END-->
 
 <!--STREAK_START-->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dzuhaib/Dzuhaib/main/assets/streak_chart.svg?v=73948b17" width="480" alt="Streak: 10 days current, 10 days longest" />
+  <img src="https://raw.githubusercontent.com/Dzuhaib/Dzuhaib/main/assets/streak_chart.svg?v=6858f3d2" width="480" alt="Streak: 10 days current, 10 days longest" />
 </p>
 <!--STREAK_END-->
 
 <!--PR_STATS_START-->
 <h3 align="center">🔀 Pull Requests</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dzuhaib/Dzuhaib/main/assets/pr_chart.svg?v=89ecd026" width="480" alt="Pull requests: 3 approved, 3 merged, 4 open" />
+  <img src="https://raw.githubusercontent.com/Dzuhaib/Dzuhaib/main/assets/pr_chart.svg?v=344c0448" width="480" alt="Pull requests: 4 approved, 4 merged, 3 open" />
 </p>
 <p align="center"><sub>Pull requests sent to</sub></p>
 <p align="center">
