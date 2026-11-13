@@ -84,14 +84,14 @@
 
 <!--GH_STATS_START-->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dzuhaib/Dzuhaib/main/assets/stats_chart.svg?v=85a7dd78" width="49%" alt="GitHub stats" />
+  <img src="https://raw.githubusercontent.com/Dzuhaib/Dzuhaib/main/assets/stats_chart.svg?v=26974197" width="49%" alt="GitHub stats" />
   <img src="https://raw.githubusercontent.com/Dzuhaib/Dzuhaib/main/assets/languages_chart.svg?v=79ce7c0b" width="49%" alt="Top languages by repo" />
 </p>
 <!--GH_STATS_END-->
 
 <!--STREAK_START-->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dzuhaib/Dzuhaib/main/assets/streak_chart.svg?v=639c5041" width="480" alt="Streak: 11 days current, 11 days longest" />
+  <img src="https://raw.githubusercontent.com/Dzuhaib/Dzuhaib/main/assets/streak_chart.svg?v=ecf73da5" width="480" alt="Streak: 11 days current, 11 days longest" />
 </p>
 <!--STREAK_END-->
 
