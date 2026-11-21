@@ -98,7 +98,7 @@
 <!--PR_STATS_START-->
 <h3 align="center">🔀 Pull Requests</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dzuhaib/Dzuhaib/main/assets/pr_chart.svg?v=fa60e26e" width="480" alt="Pull requests: 4 approved, 4 merged, 5 open" />
+  <img src="https://raw.githubusercontent.com/Dzuhaib/Dzuhaib/main/assets/pr_chart.svg?v=02f1b84f" width="480" alt="Pull requests: 4 approved, 4 merged, 4 open" />
 </p>
 <p align="center"><sub>Pull requests sent to</sub></p>
 <p align="center">
