@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td align="center">👨‍💻</td>
-    <td>All of my projects are available at <a href="https://zuhaib.aivized.com/"><b>zuhaib.aivized.com</b></a></td>
+    <td>All of my projects are available at <a href="https://thezuhaib.com/"><b>thezuhaib.com</b></a></td>
   </tr>
   <tr>
     <td align="center">💬</td>
