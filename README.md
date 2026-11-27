@@ -91,7 +91,7 @@
 
 <!--STREAK_START-->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dzuhaib/Dzuhaib/main/assets/streak_chart.svg?v=9c310c4e" width="480" alt="Streak: 1 days current, 12 days longest" />
+  <img src="https://raw.githubusercontent.com/Dzuhaib/Dzuhaib/main/assets/streak_chart.svg?v=46203154" width="480" alt="Streak: 0 days current, 12 days longest" />
 </p>
 <!--STREAK_END-->
 
